@@ -1,0 +1,31 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Tp de la materia de app en internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PerezGaston/AppEnInternet.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Expressjs",
+    "Socket.io"
+  ],
+  "author": "Gaston Perez, Muñoz Jeanette, Carzoglio Emanuel, Gioia Rama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PerezGaston/AppEnInternet/issues"
+  },
+  "homepage": "https://github.com/PerezGaston/AppEnInternet#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
